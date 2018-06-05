@@ -9,14 +9,6 @@ Use different topic modeling approach on Political Blogs to see the performance 
 * Poisson Factor Modeling ([Beta Negative Binomial Process Topic Model](http://people.ee.duke.edu/~lcarin/Mingyuan_PAMI_6.pdf))
 * Dynamic Text Network Model ([Teague Henry et al.](https://arxiv.org/pdf/1610.05756.pdf))
 
-
-* General LDA
-* Supervised LDA 
-* Relational Topic Model 
-* Network Topic Model 
-* Poisson Factor Modeling 
-* Dynamic Topic Network Model
-
 ## Key Values in Cleaned Blog Posts
 After preprocessing the text extracted from blog posts:
 * dates: string of the given date in mm/dd/yy format

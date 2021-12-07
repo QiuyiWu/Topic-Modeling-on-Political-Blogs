@@ -1,11 +1,11 @@
 # Topic Modeling on Political Blogs
-Use different topic modeling approach on Political Blogs to see the performance of diverse methods. 
+Use different topic modeling approaches on Political Blogs to see the performance of diverse methods. 
 
 ## Type of Models in Comparison
-* General LDA
-* Supervised LDA
+* General LDA ([David Blei et al.](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf))
+* Supervised LDA ([David Blei and Jon McAuliffe](https://proceedings.neurips.cc/paper/2007/file/d56b9fc4b0f1be8871f5e1c40c0067e7-Paper.pdf))
 * Relational Topic Model ([Jonathan Chang](http://proceedings.mlr.press/v5/chang09a/chang09a.pdf), [R package](https://cran.r-project.org/web/packages/lda/lda.pdf))
-* Topic Link Block Model (Derek Owens-Oas)
+* Topic Link Block Model ([Derek Owens-Oas](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/16902/OwensOas_duke_0066D_14551.pdf?sequence=1))
 * Poisson Factor Modeling ([Beta Negative Binomial Process Topic Model](http://people.ee.duke.edu/~lcarin/Mingyuan_PAMI_6.pdf))
 * Dynamic Text Network Model ([Teague Henry et al.](https://arxiv.org/pdf/1610.05756.pdf))
 
